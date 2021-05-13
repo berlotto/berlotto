@@ -39,3 +39,6 @@ Linkedin: www.linkedin.com/in/sergioberlotto
 Twitter: www.twitter.com/sergioberlotto
 
 Telegram: https://t.me/sergioberlotto
+
+
+![Linux](trem.gif)
