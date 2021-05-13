@@ -3,31 +3,39 @@
 ```python
 print('Hello coders!')
 
-def show_informations(*args, **kwargs):
+def user_informations(*args, **kwargs):
     return {
       'tools': [
-        'vscode', 'linux', 'sublime', 'terminal'
+        'vscode', 'linux', 'sublime', 'terminal', 'docker',
       ],
       'languages': [
-        'python', 'js', 'shell script', 'r',
+        'python', 'js', 'shell script',
       ],
+      'skills': [
+        'arquiteture', 'software design', 'algorithms', 'databases', 
+        'data', 'api', 'async', 'engineering'
+      ]
     }
+    
+from pprint import pprint
+pprint(user_informations())
 ```
 
 
 :monocle_face:
 
-Desenvolvedor backend, pythonista e linuxer. Trabalho hoje na Jetbov (www.jetbov.com) uma startup de SC/Brasil que criou um método e plataforma de gestão para fazendas de gado de corte.
+Desenvolvedor backend, pythonista e linuxer. Trabalho hoje na Jetbov (www.jetbov.com) uma startup de SC/Brasil está transformando a pecuária de corte empoderando o pecuarista, através de informação e oportunidades, agregando maior valor a cadeia de forma sustentável.
 
-Sou de origem gaúcha, amante de churrasco e de cervejas.
+Sou gaúcho, gosto muito de um bom churrasco, não abro mão de uma boa cerjeva no copo e um código livre na máquina
 
 :nerd_face: :speech_balloon:
+
+Blog: https://berlotto.github.io
+
+Dev.to: https://dev.to/sergioberlotto
 
 Linkedin: www.linkedin.com/in/sergioberlotto
 
 Twitter: www.twitter.com/sergioberlotto
 
-Dev.to: https://dev.to/sergioberlotto
-
 Telegram: https://t.me/sergioberlotto
-
