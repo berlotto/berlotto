@@ -30,21 +30,15 @@ pprint(user_informations())
 
 :monocle_face:
 
-Desenvolvedor backend, pythonista e linuxer. Trabalho hoje na Jetbov (www.jetbov.com) uma startup de SC/Brasil está transformando a pecuária de corte empoderando o pecuarista, através de informação e oportunidades, agregando maior valor a cadeia de forma sustentável.
+Arquiteto de Software e Solução, desenvolvedor backend senior, pythonista e linuxer. Trabalho hoje na Jetbov (www.jetbov.com) uma startup de SC/Brasil está transformando a pecuária de corte empoderando o pecuarista, através de informação e inteligencia, agregando maior valor a cadeia de forma sustentável.
 
 Sou gaúcho, gosto muito de um bom churrasco, não abro mão de uma boa cerjeva no copo e um código livre na máquina
 
 :nerd_face: :speech_balloon:
 
-Blog: https://berlotto.github.io
+Medium: [https://medium.com/@sergioberlotto](https://medium.com/@sergio.berlotto)
 
-Dev.to: https://dev.to/sergioberlotto
-
-Linkedin: www.linkedin.com/in/sergioberlotto
-
-Twitter: www.twitter.com/sergioberlotto
-
-Telegram: https://t.me/sergioberlotto
+Linkedin: [www.linkedin.com/in/sergioberlotto](www.linkedin.com/in/sergioberlotto)
 
 
 ![Linux](trem.gif)
