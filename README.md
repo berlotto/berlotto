@@ -36,6 +36,8 @@ Sou gaúcho, gosto muito de um bom churrasco, não abro mão de uma boa cerjeva 
 
 :nerd_face: :speech_balloon:
 
+Meu site: [https://berlotto.me](berlotto.me) - Com artigos sobre tecnologia, carreira, qualidade, produto e arquitetura.
+
 Medium: [https://medium.com/@sergioberlotto](https://medium.com/@sergio.berlotto)
 
 Linkedin: [www.linkedin.com/in/sergioberlotto](www.linkedin.com/in/sergioberlotto)
