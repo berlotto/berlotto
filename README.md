@@ -42,5 +42,6 @@ Medium: [https://medium.com/@sergioberlotto](https://medium.com/@sergio.berlotto
 
 Linkedin: [www.linkedin.com/in/sergioberlotto](www.linkedin.com/in/sergioberlotto)
 
+Spotify podcast: [https://podcasters.spotify.com/pod/show/srgio-berlotto](Os Arquitetos)
 
 ![Linux](trem.gif)
